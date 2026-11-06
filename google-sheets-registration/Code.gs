@@ -4,7 +4,7 @@
  * pssmcalifornia@gmail.com, set SPREADSHEET_ID, and deploy as a Web app.
  * Do not place attendee data in the public GitHub repository.
  */
-const SPREADSHEET_ID = '1wTFaACSVCJgcucYqC7BTL70S9lz56J6gVbyr62mwAAg';
+const SPREADSHEET_ID = '1bPTl7j-WpWPr8WsULx3TQ4m7OcL0uczHPtOfF4-NjMc';
 const SHEET_NAME = 'Registrations';
 const WEBSITE_URL = 'https://pssmcalifornia.github.io/sethwisdomworkshop/';
 const FLYER_URL = WEBSITE_URL + 'flyer.png';
